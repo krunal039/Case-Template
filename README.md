@@ -54,7 +54,7 @@
   _What actually happens?_
 
 - **Remediation Steps Already Taken** [Required]:  
-  _Describe what has been attempted before raising this ticket (e.g., cache cleared, retried in another browser, feature re-deployed)_
+  _Describe what has been attempted before raising this ticket (e.g., cache cleared, retried in another browser, recreated community/page etc...)_
 
 ---
 
@@ -77,6 +77,7 @@
   - [ ] Yes  
   - [ ] No  
   - [ ] Unknown
+  - [ ] If yes, user details and permission matrix
 
 ---
 
