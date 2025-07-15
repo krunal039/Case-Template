@@ -107,4 +107,4 @@
 
 ## 📣 Notes (Optional)
 
-_Add internal comments, links to similar issues, or other context or which part of produce, i.e : communities, stories etc.. ._
+_Add internal comments, links to similar issues, or other context or which part of issue, i.e : communities, stories etc.. ._
